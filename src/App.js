@@ -4,7 +4,9 @@ import './App.css';
 // import BSTest1 from './BSTest1';
 // import BSTest2 from './BSTest2';
 
-import Home from './Home';
+// import Home from './Home';
+import Home2 from './Home2';
+import Catering from './Catering';
 
 // import Button from 'react-bootstrap/Button';
 // import Table from 'react-bootstrap/Table';
@@ -38,7 +40,9 @@ function App() {
     <div className="App">
       {/* <BSTest1 /> */}
       {/* <BSTest2 /> */}
-      <Home />
+      {/* <Home /> */}
+      {/* <Home2 /> */}
+      <Catering />
     </div>
   );
 }
